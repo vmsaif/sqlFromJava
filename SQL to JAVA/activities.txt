@@ -1,0 +1,16 @@
+personID,activityName
+1,Playing the Organ
+2,Playing the Organ
+3,Playing the Organ
+4,Playing the Organ
+5,Sailing a ship
+6,Sailing a ship
+1,Sailing a ship
+2,Sailing a ship
+1,Go through a secret fireplace
+2,Go through a secret fireplace
+3,Go through a secret fireplace
+2,Dodge Rocks
+3,Go down a slide
+4,Go down a slide
+1000,Fly a spaceship

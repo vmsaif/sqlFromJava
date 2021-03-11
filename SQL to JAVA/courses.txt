@@ -1,0 +1,5 @@
+courseID,Session
+COMP3380,Fall 2020
+COMP2160,Winter 2020
+COMP2140,Winter 2020
+COMP2150,Summer 2020
